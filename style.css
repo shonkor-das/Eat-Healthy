@@ -44,3 +44,11 @@ p{
     color: white;
     font-weight: 700;
 }
+.about{
+    padding-top: 20%;
+}
+.contrat-icon{
+    background-image: url(images/shapes/7.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
